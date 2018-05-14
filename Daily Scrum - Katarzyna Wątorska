@@ -1,3 +1,4 @@
+Pierwszy tydzień
 7.05.2018
 Dzisiaj udało mi się zainstalowac klienta do githuba na komputerze. Pozwoliło mi to lepiej zapoznać się ze strukturą systemu, ale nie
 powodowało większych problemów.
@@ -14,3 +15,11 @@ Jutro chcę skończyć ten tutorial i zacząć następny.
 11.05.2018
 Dzisiaj napotkałam pewne trudności w konfiguracji witrualnego urządzenia; mam na mało miejsca na dysku, aby pobrać system Andorid na komputer. 
 W przyszłym tygodniu spróbuję rozwiązać ten problem, usuwając nieporzebne pliki, i skończyć tutorial. 
+
+Drugi tydzień
+14.05.2018
+Rozwiązałam problem zbyt małej wolnej pamięci na dysku C; po objerzeniu tutorialu, udało mi się przenieść część dostępnego miejsca z innego
+dysku. Dzięki temu zainstalowałam do końca wszystkie pliki potrzebne do działania Android Studio. 
+Miałam dość spory problem z błędami, które się pojawiały przy kompilacji kodu Java w mojej pierwszej aplikacji, stworzonej na podstawie
+tutoriala. Okazało się, że tworzyłam kod w pliku z rozszerzeniem .kt, zamiast .java. Napotkałam natomiast na kolejny błąd przy kompilacji - 
+aplikacja nie chce się otworzyć. Jutro będę się starać to naprawić oraz planuję zebrać informacje o bazach danych.
