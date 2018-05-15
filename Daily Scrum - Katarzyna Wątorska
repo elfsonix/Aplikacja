@@ -23,3 +23,8 @@ dysku. Dzięki temu zainstalowałam do końca wszystkie pliki potrzebne do dzia�
 Miałam dość spory problem z błędami, które się pojawiały przy kompilacji kodu Java w mojej pierwszej aplikacji, stworzonej na podstawie
 tutoriala. Okazało się, że tworzyłam kod w pliku z rozszerzeniem .kt, zamiast .java. Napotkałam natomiast na kolejny błąd przy kompilacji - 
 aplikacja nie chce się otworzyć. Jutro będę się starać to naprawić oraz planuję zebrać informacje o bazach danych.
+15.05.2018
+Uznałam, że nie będę już tracić czasu na próbę doprowadzenia aplikacji kalkulatora do poprawnego działania; zamiast tego, zrobiłam inny 
+tutorial, który nauczył mnie programowania funkcji bardziej przydatnych w naszej aplikacji. Tym razem, udało mi się stworzyć projekt bez 
+problemu. Poczytałam również trochę o podstawach języka Java.
+Na jutro zaplanowałam zgromadzenie informacji o bazach danych i szukanie stron ze zniżkami.
