@@ -37,3 +37,9 @@ Jutro poszukam strony ze zniżkami, które mogłabym umieść w bazie danych.
 17.05.2018r.
 Nie udało mi się znaleźć strony, która w odpowiedni sposób przedstawiałaby wszystkie zniżki i promocje dostępne w Krakowie. 
 Jutro mam zamiar poświęcić chwilę na poszukanie lepszej strony i przystąpić do stworzenia prostej bazdy danych.
+
+18.05.2018r.
+Niestety stworzenie bazy danych na serwerze AGH nie było możliwe ze względu na "brak uprawnień". Na ten moment stworzyłam bazę danych
+MySQL na własnym komputerze, korzystając z Phpmyadmin. Aby wypróbować bazę, stworzyłam dwie tabele: miejsca oraz promocje z odpowiednimi
+danymi, po czym wprowadziłam kilka przykładów, opierając się m.in. na informacjach o promocjach z aplikacji goodie.
+W następnych dniach, zacznę oglądać tutoriale na temat dołączania baz danych do android studio oraz posługiwania się PHP.
