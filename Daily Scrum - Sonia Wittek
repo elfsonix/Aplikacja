@@ -31,3 +31,7 @@ githuba.
 Wrzuciłam rozpoczęty projekt w Android Studio, jednak nie jestem pewna co do tego czy jest dobrze wykonany. Z pewnościa nie działa na 
 emulatorze i nie potrafię dokończyć tworzenia szablonu. Potrzebuję znaleźć jakiś lepszy tutorial, bo ten poprzedni jest przestarzały i 
 trochę niezrozumiały dla mnie.
+18.05.2018r. 
+Znalazłam właściwą instrukcję do dołączenia map Google do aplikacji w Android Studio, czyli 
+https://developers.google.com/android/guides/setup. Korzystając z tego setupa odpowiednio dostosowywuję to co zrobiłam poprzednim razem z 
+aplikacją i kiedy skończę to robić, to wrzucę na githuba gotowy szablon.
