@@ -30,14 +30,18 @@ tutorial, który nauczył mnie programowania funkcji bardziej przydatnych w nasz
 problemu. Poczytałam również trochę o podstawach języka Java.
 Na jutro zaplanowałam zgromadzenie informacji o bazach danych i szukanie stron ze zniżkami.
 16.05.2018
-Dzisiaj poszerzyłam swoją wiedzę z zakresu tworzenia baz danych oraz programowania w języku Java. Niestety, nie starczyło mi czasu na szukanie
-stron internetowych, z których informacje mogłyby posłużyć za bazę danych w naszej aplikacji.
+Dzisiaj poszerzyłam swoją wiedzę z zakresu tworzenia baz danych oraz programowania w języku Java. Niestety, nie starczyło mi czasu na 
+szukanie stron internetowych, z których informacje mogłyby posłużyć za bazę danych w naszej aplikacji.
 Jutro postaram się nadrobić zaległości z dzisiaj oraz zabrać się za tworzenie pierszej bazy danych.
 17.05.2018
-Przy tworzeniu bazy danych na pewne trudności - muszę jeszcze więcej poczytać na ten temat i zrobić jakiś tutorial.
-Jutro mam w planach nadal pracować nad bazą danych.
+Dzisiaj znalazłam kilka stron zbierających informacje o promocjach. Przy tworzeniu bazy danych na pewne trudności; zainstalowałam program
+xampp, ale aby połączyć się z serverem Apache konieczna była konfiguracja portu. Rozwiązanie tego problemu zajęło mi dość dużo czasu.
+Obejrzałam tutorial o tworzeniu bazy danych MySQL za pomocą xampp, ale nie wiem, jak połączyć taką bazę danych do aplikacji w Android Studio.
+Jutro mam w planach nadal pracować nad tym zagadnieniem.
 18.05.2018
-Zrobiłam prosty tutorial wporwadzający mnie w zagadnienie tworzenia baz danych w Android Studio. Częściowo udało mi się też stworzyć bazę
-danych do naszej aplikacji.
-W przyszłym tygodniu będę jeszcze musiała popracować nad tą bazą i spróbować połączyć ją z inną bazą.
+Nie udało mi się dołączyć bazy danych do szablonu aplikacji; nie znalazłam dobrych tutoriali na ten temat, odpowiadających specyfikacji 
+naszej apliakcji. Napisałam jedynie kod klasy towrzącej bazę danych w Android Studio. Zamieściłam również dwa pliki z kodem do przyłączenia
+zewnętrzenj bazy danych MySQL, ale nie wiem, co z tym zrobić dalej. 
+W przyszłym tygodniu będę jeszcze musiała popracować nad połączeniem bazy z szablonem aplikacji i spróbować połączyć ją z zewnętrznym
+serwerem tak, aby sama się aktualizowała.
 
