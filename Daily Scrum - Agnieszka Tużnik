@@ -43,3 +43,9 @@ Niestety stworzenie bazy danych na serwerze AGH nie było możliwe ze względu n
 MySQL na własnym komputerze, korzystając z Phpmyadmin. Aby wypróbować bazę, stworzyłam dwie tabele: miejsca oraz promocje z odpowiednimi
 danymi, po czym wprowadziłam kilka przykładów, opierając się m.in. na informacjach o promocjach z aplikacji goodie.
 W następnych dniach, zacznę oglądać tutoriale na temat dołączania baz danych do android studio oraz posługiwania się PHP.
+
+TYDZIEŃ 3
+21.05.2018r.
+Mając na celu przekopiowanie powstałej bazy do SQLite, zaczęłam poszerzać swoją wiedzę na temat tego systemu oraz zainstalowałam go na
+komputerze.
+Jutro mam zamiar dogadać szczegóły dotyczące, informacji, jakie mają być zawarte w tabelach oraz odpowiednio je zmodyfikować.
