@@ -45,3 +45,6 @@ zewnętrzenj bazy danych MySQL, ale nie wiem, co z tym zrobić dalej.
 W przyszłym tygodniu będę jeszcze musiała popracować nad połączeniem bazy z szablonem aplikacji i spróbować połączyć ją z zewnętrznym
 serwerem tak, aby sama się aktualizowała.
 
+Trzeci tydzień
+Dzisiaj udało mi się przkonwertowac bazę MySQL do SQLite. 
+Jutro palnuję połączyć tą bazę danych z Android Studio.
