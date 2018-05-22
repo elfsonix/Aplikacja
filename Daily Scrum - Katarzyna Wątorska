@@ -46,5 +46,9 @@ W przyszłym tygodniu będę jeszcze musiała popracować nad połączeniem bazy
 serwerem tak, aby sama się aktualizowała.
 
 Trzeci tydzień
+21.05.2018
 Dzisiaj udało mi się przkonwertowac bazę MySQL do SQLite. 
 Jutro palnuję połączyć tą bazę danych z Android Studio.
+22.05.2018
+Próbowałam dołączyć bazę danych do projektu w Android Studio, ale pomimo postępowania zgodnie z tutorialem, nie udało mi się to. 
+Następnego dnia chcę ponownie zająć się tym problemem. 
