@@ -35,3 +35,8 @@ trochę niezrozumiały dla mnie.
 Znalazłam właściwą instrukcję do dołączenia map Google do aplikacji w Android Studio, czyli 
 https://developers.google.com/android/guides/setup. Korzystając z tego setupa odpowiednio dostosowywuję to co zrobiłam poprzednim razem z 
 aplikacją i kiedy skończę to robić, to wrzucę na githuba gotowy szablon.
+
+Trzeci Tydzień
+21.05.2018r.
+Zaczęłam tworzyć szablon aplikacji zgodnie z właściwymi instrukcjami. Aplikacja uruchamia sie na emulatorze, ale nie wyświetla mapy.
+Jutro planuje rozwiązać ten problem i rozpocząć dalszą pracę nad wyglądem aplikacji.
