@@ -49,3 +49,8 @@ TYDZIEŃ 3
 Mając na celu przekopiowanie powstałej bazy do SQLite, zaczęłam poszerzać swoją wiedzę na temat tego systemu oraz zainstalowałam go na
 komputerze.
 Jutro mam zamiar dogadać szczegóły dotyczące, informacji, jakie mają być zawarte w tabelach oraz odpowiednio je zmodyfikować.
+
+22.05.2018r.
+Dopasowałam informacje zawarte w stworzonej przeze mnie bazie danych do wstępnych wymagań.
+W planie na jutro mam przekopiowanie jej do SQLite, obejrzenie tutorialu o dodawaniu bazy do android studio i w miarę możliwości,
+spróbowanie dodać bazę do naszej aplikacji.
