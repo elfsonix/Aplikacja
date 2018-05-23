@@ -52,3 +52,6 @@ Jutro palnuję połączyć tą bazę danych z Android Studio.
 22.05.2018
 Próbowałam dołączyć bazę danych do projektu w Android Studio, ale pomimo postępowania zgodnie z tutorialem, nie udało mi się to. 
 Następnego dnia chcę ponownie zająć się tym problemem. 
+23.05.2018
+Cały szablon aplikacji ze stworzoną bazą danych nadal mi się nie kompiluje. Często pojawia się problem 'cannot resolve symbol'. 
+Jutro chcę poszerzyć bazę danych. 
