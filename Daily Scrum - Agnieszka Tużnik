@@ -58,3 +58,8 @@ spróbowanie dodać bazę do naszej aplikacji.
 23.05.2018r.
 Tak jak planowałam przekopiowałam dane do SQLite oraz poszerzyłam wiedzę o dodawaniu jej do android studio, jednak nie dołączyłam jej jeszcze.
 Zajmę się tym jutro.
+
+24.05.2018r.
+Znalazłam tutorial pokazujący jak dodać bazę danych SQLite do android studio (korzystając z już istniejącego pliku). Był to przykład prosty,
+więc przy próbie wykonania tego samego dla własnej bazy i aplikacji, napotkałam pewne trudności. 
+Będę musiała jeszcze raz przeanalizować problem i dokończyć wstawianie własnej bazy danych.
