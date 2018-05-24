@@ -46,3 +46,8 @@ internetowego - platforma google zbyt długo oczekiwała na odpowiedź. Czytała
 mapie.
 23.05.2018r.
 Starałam się dodać splash screen (ekran powitalny do aplikacji). Potrzebuję obejrzeć więcej tutoriali na ten temat.
+24.05.2018r.
+Oglądałam tutoriale dotyczące tworzenia splash screena i czytałam o języku java. Mój dotychczasowy splash screen nie uruchamia sie 
+z powodu tego, że nie rozpoznaje linijki kodu odwołującej sie do głównej części programu (Mainactivity/MapsActivity). Postaram się 
+także poprosić inną osobę o wygenerowanie kodu API, który może będzie działał lepiej niż mój. W dalszym ciągu mam słabe połączeni 
+internetowe, więc nie mogę tego wykonać.
