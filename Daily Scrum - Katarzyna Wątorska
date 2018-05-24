@@ -55,3 +55,6 @@ Następnego dnia chcę ponownie zająć się tym problemem.
 23.05.2018
 Cały szablon aplikacji ze stworzoną bazą danych nadal mi się nie kompiluje. Często pojawia się problem 'cannot resolve symbol'. 
 Jutro chcę poszerzyć bazę danych. 
+24.05.2018
+Dopisałam jeszcze kilka rekordów do bazy danych , aby zawierała więcej niż pieć pozycji. 
+Jutro planuję spróbować ponownie zająć się błędami, jakie się pojawiają przy próbach stworzenia bazy danych w Android Studio. 
