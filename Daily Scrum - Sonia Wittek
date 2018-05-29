@@ -6,35 +6,36 @@ aplikacją. W dniu jutrzejszym planuję skonfigurować środowisko do pracy nad 
 Miałam zainstalować Android Studio wraz z narzędziem do testowania. Całość przebiegła bez problemu. W dniu jutrzejszym planuję wykonać 
 jeden z tutoriali do Android Studio.
 9.05.2018r.
-Przejrzałam dostępne podstawowe tutoriale do Android Studio i wybrałam jeden z nich składający się z 4 części. Obejrzałam część pierwszą 
-(https://www.youtube.com/watch?v=dFlPARW5IX8), która demonstrowała instalację, konfigurację Android Studio, a także wykonanie prostej
-aplikacji i jej debugowanie. W dniu jutrzejszym planuję obejrzeć drugą część i jeśli będzie to możliwe to wykonać prostą aplikację zgodnie 
-z poznanymi sposobami.
+Przejrzałam dostępne podstawowe tutoriale do Android Studio i wybrałam jeden z nich składający się z 4 części. Obejrzałam część 
+pierwszą (https://www.youtube.com/watch?v=dFlPARW5IX8), która demonstrowała instalację, konfigurację Android Studio, a także wykonanie
+prostej aplikacji i jej debugowanie. W dniu jutrzejszym planuję obejrzeć drugą część i jeśli będzie to możliwe to wykonać prostą 
+aplikację zgodnie z poznanymi sposobami.
 10.05.2018r.
 Obejrzałam drugą część tutoriala do Android Studio, ale z powodu braku czasu nie byłam w stanie zrobić nic więcej. Planuję to nadrobić 
 jutro tworząc prostą aplikację.
 11.05.2018r.
-Udało mi się zapoznać bardziej ze środowiskiem Android Studio i zrobić pierwszą aplikację na podstawie obejrzanych tutoriali. Aplikację 
+Udało mi się zapoznać bardziej ze środowiskiem Android Studio i zrobić pierwszą aplikację na podstawie obejrzanych tutoriali. Aplikację
 zcommitowałam pod nazwą "Tutorial".
 
 Drugi Tydzień
 14.05.2018r.
-Przeszukałam dostępne strony z informacjami o zniżkach zwykłych i studenckich i udostępniłam najbardziej sensowne wyniki w formie strony na 
-wiki. Jutro planuję przeczytać/obejrzeć tutorial o tworzeniu aplikacji na bazie mapy.
+Przeszukałam dostępne strony z informacjami o zniżkach zwykłych i studenckich i udostępniłam najbardziej sensowne wyniki w formie strony
+na wiki. Jutro planuję przeczytać/obejrzeć tutorial o tworzeniu aplikacji na bazie mapy.
 15.05.2018r.
-Obejrzałam tutorial opisujący używanie google maps w androidzie (część 1 z 3) (https://www.youtube.com/watch?v=NHXa96-r8TY) oraz znalazłam
-stronę Google dotyczącą map (https://cloud.google.com/maps-platform/). Jutro postaram się utworzyć szablon aplikacji używającej google maps.
+Obejrzałam tutorial opisujący używanie google maps w androidzie (część 1 z 3) (https://www.youtube.com/watch?v=NHXa96-r8TY) oraz
+znalazłam stronę Google dotyczącą map (https://cloud.google.com/maps-platform/). Jutro postaram się utworzyć szablon aplikacji 
+używającej google maps.
 16.05.2018r.
-Uzyskałam klucz API do google maps i rozpoczęłam przygotowywanie szablonu aplikacji w Android Studio. Jutro to dokończę i wrzucę szablon na
-githuba.
+Uzyskałam klucz API do google maps i rozpoczęłam przygotowywanie szablonu aplikacji w Android Studio. Jutro to dokończę i wrzucę 
+szablon na githuba.
 17.05.2018r.
 Wrzuciłam rozpoczęty projekt w Android Studio, jednak nie jestem pewna co do tego czy jest dobrze wykonany. Z pewnościa nie działa na 
 emulatorze i nie potrafię dokończyć tworzenia szablonu. Potrzebuję znaleźć jakiś lepszy tutorial, bo ten poprzedni jest przestarzały i 
 trochę niezrozumiały dla mnie.
 18.05.2018r. 
 Znalazłam właściwą instrukcję do dołączenia map Google do aplikacji w Android Studio, czyli 
-https://developers.google.com/android/guides/setup. Korzystając z tego setupa odpowiednio dostosowywuję to co zrobiłam poprzednim razem z 
-aplikacją i kiedy skończę to robić, to wrzucę na githuba gotowy szablon.
+https://developers.google.com/android/guides/setup. Korzystając z tego setupa odpowiednio dostosowywuję to co zrobiłam poprzednim razem
+z aplikacją i kiedy skończę to robić, to wrzucę na githuba gotowy szablon.
 
 Trzeci Tydzień
 21.05.2018r.
@@ -58,5 +59,7 @@ Oglądam tutoriale i instruktaże na komórce, ale ne jestem w stanie nic zrobi�
 Czwarty Tydzień
 28.05.2018r.
 Choroba.
-
+29.05.2018r.
+Wytłumaczyłam reszcie zespołu w jaki sposób dokładnie działa GitHub Desktop. Uczyłam się więcej o językach programowania. W dniu
+jutrzejszym planujemy się spotkać z zespołem, aby omówić zdobytą wiedzę i naprawić wszelkie problemy z niezgodnością naszej aplikacji
 
