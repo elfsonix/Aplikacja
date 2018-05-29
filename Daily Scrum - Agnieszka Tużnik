@@ -67,3 +67,9 @@ Będę musiała jeszcze raz przeanalizować problem i dokończyć wstawianie wł
 25.05.2018r.
 Udało mi się dolaczyc baze danych z SQLite w próbnej aplikacji. W związku z tym w przyszłym tygodniu chcę rozwinąć stworzoną juz 
 w szablonie aplikacji klasę reprezentującą bazę danych tak, aby udalo sie wyświetlic punkt na mapie. 
+
+TYDZIEŃ 4
+28.05.2018r.
+Aplikacja nie działa jak należy, gdyż nie wyświetla mapy. Próbowałam dziś znaleźć błąd, jednak nie udało mi się tego zrobić.
+Jutro spróbuje rozwiązać ten problem. W przeciwnym przypadku, będziemy musiały napisać kod ponownie.
+
