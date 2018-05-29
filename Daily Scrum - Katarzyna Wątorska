@@ -61,3 +61,14 @@ Jutro planuję spróbować ponownie zająć się błędami, jakie się pojawiaj�
 25.05.2018
 Nadal nie udało mi się stworzyć w pełni funkcjinującego programu.
 W przyszłym tygodniu będę chciała skoncentorwać się na zintegrowaniu  bazy danych z mapą, aby wyświetlały się na niej punkty usługowe.
+
+Czwarty tydzień
+28.05.2018
+Udało mi się usunąć większość błędów wyrzucanych przez kompilator, jednak nadal nie pojawia sie mapa, gdy uruchamiam aplikację. Próbowałam
+rozwiązać ten problem, ale jak na razie bezskutecznie.
+Jutro zamierzam uporządkować projekt naszej aplikacji. 
+29.05.2018
+Dzisiaj pracowałam nad stworzeniem od nowa projektu aplikacji, ponieważ w obecnym jest coś pomieszane z hierarchią folderów istworzenie wszystkiego od nowa jest prostszym rozwiązaniem.
+Jednak to zadanie przerasta moje możliwości czasowe i umiejętności, dlatego postanowiłyśmy się jutro spotkać i wspólnie stworzyć od nowa 
+szablon.
+
