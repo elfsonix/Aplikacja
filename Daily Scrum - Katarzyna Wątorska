@@ -71,4 +71,7 @@ Jutro zamierzam uporządkować projekt naszej aplikacji.
 Dzisiaj pracowałam nad stworzeniem od nowa projektu aplikacji, ponieważ w obecnym jest coś pomieszane z hierarchią folderów istworzenie wszystkiego od nowa jest prostszym rozwiązaniem.
 Jednak to zadanie przerasta moje możliwości czasowe i umiejętności, dlatego postanowiłyśmy się jutro spotkać i wspólnie stworzyć od nowa 
 szablon.
+30.05.2018
+Nasza aplikacja ndal nie działa - problem jest prawdopodobnie z ustawieniami lokalizacji, ponieważ mapa Google w ogóle się nie wyświetla, pomimo połąćzenia z internetem,
+Jutro zamierzam spróbować coś jeszcze poszukać na temat tworzenia aplikacji z zmapą i wymaganych konfiguracji
 
