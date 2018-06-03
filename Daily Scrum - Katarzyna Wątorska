@@ -56,27 +56,34 @@ Następnego dnia chcę ponownie zająć się tym problemem.
 Cały szablon aplikacji ze stworzoną bazą danych nadal mi się nie kompiluje. Często pojawia się problem 'cannot resolve symbol'. 
 Jutro chcę poszerzyć bazę danych. 
 24.05.2018
-Dopisałam jeszcze kilka rekordów do bazy danych , aby zawierała więcej niż pieć pozycji. 
+Dopisałam jeszcze kilka rekordów do bazy danych  aby zawierała więcej niż pięć pozycji. 
 Jutro planuję spróbować ponownie zająć się błędami, jakie się pojawiają przy próbach stworzenia bazy danych w Android Studio. 
 25.05.2018
 Nadal nie udało mi się stworzyć w pełni funkcjinującego programu.
-W przyszłym tygodniu będę chciała skoncentorwać się na zintegrowaniu  bazy danych z mapą, aby wyświetlały się na niej punkty usługowe.
+W przyszłym tygodniu będę chciała skoncentorwać się na zintegrowaniu bazy danych z mapą, aby wyświetlały się na niej punkty usługowe.
 
 Czwarty tydzień
 28.05.2018
-Udało mi się usunąć większość błędów wyrzucanych przez kompilator, jednak nadal nie pojawia sie mapa, gdy uruchamiam aplikację. Próbowałam
-rozwiązać ten problem, ale jak na razie bezskutecznie.
+Udało mi się usunąć większość błędów wyrzucanych przez kompilator, jednak nadal nie pojawia się mapa, gdy uruchamiam aplikację. 
+Próbowałam rozwiązać ten problem, ale jak na razie bezskutecznie.
 Jutro zamierzam uporządkować projekt naszej aplikacji. 
 29.05.2018
-Dzisiaj pracowałam nad stworzeniem od nowa projektu aplikacji, ponieważ w obecnym jest coś pomieszane z hierarchią folderów istworzenie wszystkiego od nowa jest prostszym rozwiązaniem.
-Jednak to zadanie przerasta moje możliwości czasowe i umiejętności, dlatego postanowiłyśmy się jutro spotkać i wspólnie stworzyć od nowa 
+Dzisiaj pracowałam nad stworzeniem od nowa projektu aplikacji, ponieważ w obecnym jest coś źle skonstruowane jeśli chodzi o hierarchię
+folderów. Stworzenie wszystkiego od nowa jest prostszym rozwiązaniem, niż próby naprawienia obecnego projektu.
+To zadanie jednak przerosło moje możliwości czasowe i umiejętności, dlatego postanowiłyśmy się jutro spotkać i wspólnie stworzyć od nowa 
 szablon.
 30.05.2018
-Nasza aplikacja ndal nie działa - problem jest prawdopodobnie z ustawieniami lokalizacji, ponieważ mapa Google w ogóle się nie wyświetla, pomimo połąćzenia z internetem,
-Jutro zamierzam spróbować coś jeszcze poszukać na temat tworzenia aplikacji z zmapą i wymaganych konfiguracji
+Nasza aplikacja nadal nie działa - problem jest prawdopodobnie z ustawieniami lokalizacji, ponieważ mapa Google w ogóle się nie 
+wyświetla, pomimo połączenia z internetem.
+Jutro zamierzam spróbować coś jeszcze poszukać na temat tworzenia aplikacji z mapą i wymaganych konfiguracji sprzętu.
 31.05.2018
-Dzisiaj obejrzałam jeszcze kilka tutoriali na temat tworzenia aplikacji z mapami i próbowałam sama taką zrobić i uruchomić, ale nadal nie działa poprawnie.
-Jutro będę się starała nadal szukać rozwiązania problemu.
+Dzisiaj obejrzałam jeszcze kilka tutoriali na temat tworzenia aplikacji z mapami, spróbowałam sama taką zrobić i uruchomić. Udało mi się
+sprawić, żeby aplikacja pokazywała jeden punkt na mapie. Dodałam również navigation bar, który ma przekierowywać do listy dostępnych
+promocji w sklepach lub restauracjach.
+Nie wiem natomiast, jak połączyć ten pasek z dostępną bazą danych oraz jak zrobić, żeby aplikacja wyświetliła np. wszystkie wprowadzone 
+do bazy danych współrzędne. Jutro zamierzam poszukać informacji na ten temat.
 1.06.2018
-Udało mi się wreszcie stworzyć prosty szablon aplikacji z mapą, która się wyświetla.
-Jutro chcę spróbować połączyć bazę danych do tej aplikacji.
+Znalazłam pewne rozwiązania dotyczące dodawania i wyświetlania wpisów z bazy danych, ale nie wiem, jak to połączyć z kodem dotyczącym 
+navigation bar. Jako alternatywne rozwiązanie rozważałam stworzeniem osobnej strony startowej, z której byłoby przejście do mapy.
+W przyszłym tygodniu chcę jeszcze zastanowić się, nad tym, jaki ostateczny projekt przyjąć oraz dokończyć łączenie bazy danych z mapą,
+aby wyświetlały się konkretne punkty.
