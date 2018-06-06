@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);
+        /* Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar); */
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
@@ -72,10 +72,13 @@ public class MainActivity extends AppCompatActivity {
         public void onMapReady(GoogleMap googleMap) {
             mMap = googleMap;
 
-            // Add a marker in Sydney and move the camera
-            LatLng sydney = new LatLng(-34, 151);
-            mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-            mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+            // Add a marker in Kraków and move the camera
+            LatLng krakow = new LatLng(50.06143, 19.93658);
+            /* Niepotrzebny, zostawiam dla wzorca
+            mMap.addMarker(new MarkerOptions().position(krakow).title("Marker in Krakow")); */
+            mMap.moveCamera(CameraUpdateFactory.newLatLng(krakow));
+            mMap.setMinZoomPreference(13);
+
         }
     }
 }
