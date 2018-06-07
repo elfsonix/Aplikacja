@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Promocje Kraków</string>
+    <string name="title_activity_maps">Promocje Kraków</string>
+    <string name="title_activity_main">Start</string>
+    <string name="title_activity_maps1">MapsActivity1</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+</resources>
